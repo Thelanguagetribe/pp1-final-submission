@@ -1,0 +1,498 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General Styles */
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: white;
+    font-family: 'Truculenta', Times, serif;
+}
+
+h1 {
+    font-family:'Truculenta', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: gold;
+    text-align: center;
+}
+
+h3, h4 {
+    font-family:'Truculenta', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: white;
+    color: gold;
+    padding: 40px 1rem 20px;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px gold;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: gold;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+menu > li {
+    margin-bottom: 1em;
+    color: gold;
+}
+
+.active {
+    border-bottom: 1px solid gold;
+}
+
+/* Navbar styles with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: white;
+    color: gold;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px gold;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+/* Main Content */
+main {
+    /* Main element to take up any surplus space to push footer down*/
+    flex: 1 0 auto;
+    margin-top: 35px;
+}
+
+/*Hero section*/
+#hero {
+    height: 450px;
+    width: 100%;
+    background: url("../images/Hero\ Image\ 2.jpg") no-repeat center center/cover;
+    background-size: cover;
+    position: absolute;
+}
+
+#cover-text-home {
+    background-color: rgba(255, 215, 0, 0.8);
+    font-size: 130%;
+    color: white;
+    position: relative;
+    top: 150px;
+    left: 50px;
+    bottom: 100px;
+    width: 80%;
+    min-height: 175px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+.trailer-video {
+    margin-top: 310px;
+    margin-bottom: 10px;
+    aspect-ratio: 16/9;
+    width: 80%;
+}
+
+.trailer-video-position {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Recipes Page*/
+
+/* Hero Image for Recipes Page*/
+#galleryhero {
+    height: 300px;
+    width: 100%;
+    background: url("../images/Hero\ image\ 7.jpg") no-repeat center center/cover;
+    background-size: cover;
+    position: absolute;
+} 
+
+#cover-text-recipes {
+    background-color: rgba(255, 215, 0, 0.8);
+    font-size: 110%;
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    bottom: 50px;
+    text-align: center;
+    width: 30%;
+    min-height: 175px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+/* Gallery on Recipes Page */
+#gallery {
+    margin-top: 120px;
+}
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos img:hover {
+    filter: grayscale(100%);
+}
+
+#photos {
+    line-height: 0;
+}
+
+/* Registration Form*/
+#register {
+    height:600px;
+    Width: 100%;
+    background-image: url(../images/Hero\ Image\ 6.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 20px 10% 0 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+#registration-form {
+    color: white;
+    font-weight: bold;
+    background-color: rgba(255, 215, 0, 0.7);
+    padding: 30px;
+    position: relative;
+}
+
+#registration-form>h3 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: white;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.register-button {
+    margin-top: 20px;
+    border: #ba970c;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    font-weight: bold;
+    background-color: #E0C25D;
+    color: white;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Footer */
+footer { 
+    background-color: white;
+    color: gold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#social-networks {
+    text-align: center;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+}
+
+/* Media query: thin phones like z-fold (280px and up) */
+@media screen and (min-width: 280px) {
+    #hero {
+        height: 370px;
+    }
+    #cover-text-home {
+        font-size: 75%;
+        width: 75%;
+        min-height: 100px;
+        bottom: 80px;
+        left: 15px;
+    }
+
+    .trailer-video {
+        margin-top: 280px;
+        margin-bottom: 50px;
+        aspect-ratio: 16/9;
+        width: 80%;
+    }
+    #galleryhero {
+        height: 320px;
+        width: 100%;
+    } 
+
+    #gallery {
+        margin-top: 120px;
+    }
+
+    #cover-text-recipes {
+        width: 60%;
+        font-size: 80%;
+        min-height: 150px;
+        left: 10px;
+    }
+    
+    /* Form */
+    #register {
+        background-position: center;
+        position: relative;
+        height: 570px;
+    }
+
+    #registration-form {
+        max-width: 400px;
+        position: relative;
+        min-height: 200px;
+        resize: vertical;
+    }
+
+    .text-input:hover {
+        border-color: #f1bc6b;
+    }
+
+    .register-button:hover {
+        background-color: whitesmoke;
+        color: gold;
+    }
+
+}
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+
+    #gallery {
+        margin-top: 180px;
+    }
+
+    #cover-text-home {
+        font-size: 130%;
+        width: 500px;
+        right: 60px;
+    }
+
+    .trailer-video {
+        margin-top: 300px;
+}
+    /* Form */
+    #register {
+        background-position: center;
+        position: relative;
+        height: 1150px;
+    }
+
+    #registration-form {
+        max-width: 400px;
+        position: relative;
+        top: 2px;
+        bottom: 70px;
+    }
+
+    .text-input:hover {
+        border-color: #f1bc6b;
+    }
+
+    .register-button:hover {
+        background-color: whitesmoke;
+        color: gold;
+    }
+
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 250%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main Content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 135px;
+    }
+
+    /* Hero */
+    #cover-text-home {
+        font-size: 130%;
+        width: 500px;
+        right: 60px;
+    }
+
+    /*Youtube embedded video */
+    .trailer-video {
+        margin-top: 350px;
+        margin-bottom: 50px;
+        aspect-ratio: 16/9;
+        width: 80%;
+    }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
+
+    #gallery {
+        margin-top: 180px;
+    }
+
+    #galleryhero {
+        height: 450px;
+        width: 100%;
+    } 
+
+    #cover-text-recipes {
+        font-size: 130%;
+        width: 30%;
+        min-height: 150px;
+    }
+
+    /* Form */
+    #register {
+        background-position: center;
+        position: relative;
+        height: 1050px;
+    }
+
+    #registration-form {
+        max-width: 400px;
+        position: relative;
+        top: 2px;
+        bottom: 70px;
+    }
+
+    .text-input:hover {
+        border-color: #f1bc6b;
+    }
+
+    .register-button:hover {
+        background-color: whitesmoke;
+        color: gold;
+    }
+
+}
+
+/* Large devices (laptop & desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid gold;
+    }
+
+    /* Gallery */
+    #photos {
+        column-count: 4;
+    }
+    #gallery {
+        margin-top: 220px;
+    }
+
+    /* Form */
+    #register {
+        background-position: center;
+        position: relative;
+        height: 900px;
+    }
+
+    #registration-form {
+        max-width: 400px;
+        position: relative;
+        top: 2px;
+        bottom: 70px;
+    }
+
+    .text-input:hover {
+        border-color: #f1bc6b;
+    }
+
+    .register-button:hover {
+        background-color: whitesmoke;
+        color: gold;
+    }
+}
