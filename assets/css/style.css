@@ -112,7 +112,7 @@ main {
 }
 
 #cover-text-home {
-    background-color: rgba(153, 101, 21, 0.8);
+    background-color: rgba(153, 101, 21, 0.88);
     font-size: 130%;
     color: white;
     position: relative;
@@ -154,7 +154,7 @@ main {
 } 
 
 #cover-text-recipes {
-    background-color: rgba(153, 101, 21, 0.8);
+    background-color: rgba(153, 101, 21, 0.88);
     font-size: 110%;
     color: white;
     position: relative;
@@ -209,7 +209,7 @@ main {
 #registration-form {
     color: white;
     font-weight: bold;
-    background-color: rgba(153, 101, 21, 0.8);
+    background-color: rgba(153, 101, 21, 0.92);
     padding: 30px;
     position: relative;
 }
@@ -237,7 +237,7 @@ main {
     padding: 15px 32px;
     font-size: 100%;
     font-weight: bold;
-    background-color: #996515;
+    background-color: #885406;
     color: white;
     display: block;
     margin: 0 auto;
