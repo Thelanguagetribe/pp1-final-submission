@@ -72,11 +72,11 @@ menu > li {
 nav {
     position: absolute;
     background-color: white;
-    color: #996515;
+    color: rgba(153, 101, 21, 1.0);
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #996515;
+    box-shadow: 0 2px 2px rgba(153, 101, 21, 1.0);
     display: none;
     top: 100%;
 }
@@ -84,6 +84,7 @@ nav {
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
+    color: #996515;
 }
 
 #nav-toggle {
@@ -105,7 +106,7 @@ main {
 #hero {
     height: 450px;
     width: 100%;
-    background: url("../images/first-page-hero-image-enhanced-min-3.jpg") no-repeat center center/cover;
+    background: url("../images/first-page-hero-image-enhanced.jpg") no-repeat center center/cover;
     background-size: cover;
     object-fit: contain;
     position: absolute;
