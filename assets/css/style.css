@@ -107,6 +107,7 @@ main {
     width: 100%;
     background: url("../images/first-page-hero-image-enhanced.jpg") no-repeat center center/cover;
     background-size: cover;
+    object-fit: contain;
     position: absolute;
 }
 
@@ -149,6 +150,7 @@ main {
     background: url("../images/second-page-hero-image-enhanced.jpg") no-repeat center center/cover;
     background-size: cover;
     position: absolute;
+    object-fit: contain;
 } 
 
 #cover-text-recipes {
@@ -194,6 +196,7 @@ main {
     Width: 100%;
     background-image: url("../images/third-page-hero-image-enhanced.jpg");
     background-size: cover;
+    object-fit: contain;
     position: relative;
     padding: 20px 10% 0 10%;
     display: flex;
