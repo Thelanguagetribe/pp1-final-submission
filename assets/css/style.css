@@ -22,7 +22,7 @@ h1 {
     font-family:'Truculenta', Times, serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: gold;
+    color: #996515;
     text-align: center;
 }
 
@@ -37,12 +37,12 @@ h3, h4 {
 /* Header */
 header {
     background-color: white;
-    color: gold;
+    color: #996515;
     padding: 40px 1rem 20px;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px gold;
+    box-shadow: 0 2px 2px #996515;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -50,7 +50,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: gold;
+    color: #996515;
 }
 
 #menu {
@@ -61,22 +61,22 @@ header a {
 
 menu > li {
     margin-bottom: 1em;
-    color: gold;
+    color: #996515;
 }
 
 .active {
-    border-bottom: 1px solid gold;
+    border-bottom: 1px solid #996515;
 }
 
 /* Navbar styles with dropdown toggle*/
 nav {
     position: absolute;
     background-color: white;
-    color: gold;
+    color: #996515;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px gold;
+    box-shadow: 0 2px 2px #996515;
     display: none;
     top: 100%;
 }
@@ -112,7 +112,7 @@ main {
 }
 
 #cover-text-home {
-    background-color: rgba(255, 215, 0, 0.8);
+    background-color: #996515(255, 215, 0, 0.8);
     font-size: 130%;
     color: white;
     position: relative;
@@ -154,7 +154,7 @@ main {
 } 
 
 #cover-text-recipes {
-    background-color: rgba(255, 215, 0, 0.8);
+    background-color: #996515(255, 215, 0, 0.8);
     font-size: 110%;
     color: white;
     position: relative;
@@ -209,7 +209,7 @@ main {
 #registration-form {
     color: white;
     font-weight: bold;
-    background-color: rgba(255, 215, 0, 0.7);
+    background-color: #996515(255, 215, 0, 0.7);
     padding: 30px;
     position: relative;
 }
@@ -232,12 +232,12 @@ main {
 
 .register-button {
     margin-top: 20px;
-    border: #ba970c;
+    border: #996515;
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
     font-weight: bold;
-    background-color: #E0C25D;
+    background-color: #996515;
     color: white;
     display: block;
     margin: 0 auto;
@@ -246,7 +246,7 @@ main {
 /* Footer */
 footer { 
     background-color: white;
-    color: gold;
+    color: #996515;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -314,12 +314,12 @@ footer {
     }
 
     .text-input:hover {
-        border-color: #f1bc6b;
+        border-color: #996515;
     }
 
     .register-button:hover {
         background-color: whitesmoke;
-        color: gold;
+        color: #996515;
     }
 
 }
@@ -359,12 +359,12 @@ footer {
     }
 
     .text-input:hover {
-        border-color: #f1bc6b;
+        border-color: #996515;
     }
 
     .register-button:hover {
         background-color: whitesmoke;
-        color: gold;
+        color: #996515;
     }
 
 }
@@ -454,12 +454,12 @@ footer {
     }
 
     .text-input:hover {
-        border-color: #f1bc6b;
+        border-color: #996515;
     }
 
     .register-button:hover {
         background-color: whitesmoke;
-        color: gold;
+        color: #996515;
     }
 
 }
@@ -467,7 +467,7 @@ footer {
 /* Large devices (laptop & desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid gold;
+        border-bottom: 1px solid #996515;
     }
 
     /* Gallery */
@@ -493,11 +493,11 @@ footer {
     }
 
     .text-input:hover {
-        border-color: #f1bc6b;
+        border-color: #996515;
     }
 
     .register-button:hover {
         background-color: whitesmoke;
-        color: gold;
+        color: #996515;
     }
 }
