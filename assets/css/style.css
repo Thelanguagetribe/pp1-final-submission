@@ -180,6 +180,7 @@ main {
     height: 100%;
     width: 100%;
     line-height: 1em;
+    object-fit:contain;
 }
 
 #photos img:hover {
