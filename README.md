@@ -10,7 +10,6 @@ https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-su
 
 
 ## Table of Contents
-(insert hyperlinks to different sections of the readme here)
 - [Section 1: Introduction](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-1-introduction)
 - [Section 2: User Experience](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-2-user-expereience)<br/>
 [i. Strategy Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-strategy-plane)
