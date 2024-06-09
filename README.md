@@ -9,9 +9,39 @@
 https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-submission/ 
 
 
-### Table of Contents
-
+## Table of Contents
 (insert hyperlinks to different sections of the readme here)
+- [Section 1: Introduction](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-1-introduction)
+- [Section2: User Experience](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-2-user-expereience)<br/>
+[i. Strategy Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-strategy-plane)
+- [Section 3: User Design](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-3-design)<br/>
+[ii. Scope Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-scope-plane)<br/>
+[iii. Structural Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iii-structural-plane)<br/>
+[iv. Skeletal Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iv-skeletal-plane)<br/>
+[Desktop Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#desktop-wireframes)<br/>
+[Tablet Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#tablet-wireframes)<br/>
+[Mobile Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#mobile-wireframes)<br/>
+[v. Surface Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#v-surface-plane)<br/>
+- [Section 4: Features](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-4-features)<br/>
+[i. Features of the Website](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-features-on-the-website)<br/>
+[ii. Features to be implemented in the Future](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-features-to-be-implemented-in-the-future)<br/>
+- [Section 5: Technologies Used](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-5-technologies-used)<br/>
+[i.Main Languages](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-main-languages)<br/>
+[ii. Frameworks, Libraries & Programmes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-frameworks-libraries--programmes)<br/>
+- [Section 6: Deployment & Local Development](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-6-deployment--local-development)<br/>
+- [Section 7: Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-7-testing)<br/>
+[Manual Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#manual-testing)<br/>
+[Validator Tools](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#validator-tools)<br/>
+[i. Website Contrast Checker](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#website-contrast-checker)<br/>
+[ii. HTML Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#html-validator)<br/>
+[iii. CSS Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#css-validator)<br/>
+[iv. Lighthouse Reports](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#lighthouse-reports)<br/>
+- [Section 8: Credits](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-8-credits)<br/>
+
+
+
+
+
 
 ## Section 2: User Expereience
 
