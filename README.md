@@ -3,7 +3,7 @@
 ## Section 1: Introduction
 #### This project is..
 
-![alt text](assets/images/readme-file-screenshots/ui.dev-amiresponsive-website-checker.png)
+![alt text](assets/images/readme-file-screenshots/ui.dev-amiresponsive-website-checker-1.png)
 https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-submission/
 
 ### Table of Contents
@@ -93,5 +93,10 @@ see other readmes
 ## Section 7: Testing
 
 include screenshots
+
+### Website Contrast Checker
+
+![alt text](assets/images/readme-file-screenshots/colour-contrast-report(webaim)-2.png)
+https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
 
 ## Section 8: Credits
