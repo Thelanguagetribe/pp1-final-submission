@@ -40,7 +40,7 @@ Wireframes here
 •	(link) Wireframe for Tablet
 •	(link) Wireframe for Desktop
 
-#### Desktop Wireframes
+### Desktop Wireframes
 https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 
 ![alt text](assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png)
@@ -50,6 +50,11 @@ https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 ![alt text](assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png)
 
 ![alt text](assets/images/readme-file-screenshots/4-registration-page.png)
+
+### Tablet Wireframes
+https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
+
+### Mobile Wireframes
 
 ### v. Surface Plane
 
