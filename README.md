@@ -99,4 +99,23 @@ include screenshots
 ![alt text](assets/images/readme-file-screenshots/colour-contrast-report(webaim)-2.png)
 https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
 
+### HTML Validator
+https://validator.w3.org/ 
+
+#### First HTML Page (Home Page)
+![alt text](assets/images/readme-file-screenshots/first-html-page-validator-testing.png)
+
+#### Second HTML Page (Recipes Gallery Page)
+![alt text](assets/images/readme-file-screenshots/second-html-page-validator-testing.png)
+
+#### Third HTML Page (Registration Page)
+![alt text](assets/images/readme-file-screenshots/third-html-page-validator-testing.png)
+
+
+### CSS Validator
+https://jigsaw.w3.org/css-validator/
+
+![alt text](assets/images/readme-file-screenshots/css-page-validator-testing.png)
+
+
 ## Section 8: Credits
