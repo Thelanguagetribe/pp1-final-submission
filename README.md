@@ -40,6 +40,17 @@ Wireframes here
 •	(link) Wireframe for Tablet
 •	(link) Wireframe for Desktop
 
+#### Desktop Wireframes
+https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
+
+![alt text](assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png)
+
+![alt text](assets/images/readme-file-screenshots/2-desktop-recipes-landing-page.png)
+
+![alt text](assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png)
+
+![alt text](assets/images/readme-file-screenshots/4-registration-page.png)
+
 ### v. Surface Plane
 
 •	Colour scheme (colour palettes etc.)
