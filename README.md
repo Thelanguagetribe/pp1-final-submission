@@ -117,5 +117,26 @@ https://jigsaw.w3.org/css-validator/
 
 ![alt text](assets/images/readme-file-screenshots/css-page-validator-testing.png)
 
+### Lighthouse Reports
+
+#### Home Page
+##### Mobile Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png)
+##### Desktop Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/first-page-lighthouse-report-desktop.png)
+
+#### Recipes Gallery Page
+##### Mobile Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/second-page-lighthouse-report-mobile.png)
+
+##### Desktop Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/second-page-lighthouse-report-desktop.png)
+
+#### Registration Page
+##### Mobile Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png)
+##### Desktop Lighthouse Report
+![alt text](assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png)
+
 
 ## Section 8: Credits
