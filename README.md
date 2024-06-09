@@ -88,11 +88,15 @@ CSS
 
 ## Section 6: Deployment & Local Development
 
-see other readmes
+(see other readmes)
 
 ## Section 7: Testing
 
-include screenshots
+### Manual Testing
+(need grid)
+
+
+### Validator Tools
 
 ### Website Contrast Checker
 
@@ -140,3 +144,4 @@ https://jigsaw.w3.org/css-validator/
 
 
 ## Section 8: Credits
+(use bullet points)
