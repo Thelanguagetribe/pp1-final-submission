@@ -12,15 +12,13 @@ https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-su
 ## Table of Contents
 (insert hyperlinks to different sections of the readme here)
 - [Section 1: Introduction](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-1-introduction)
-- [Section2: User Experience](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-2-user-expereience)<br/>
+- [Section 2: User Experience](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-2-user-expereience)<br/>
 [i. Strategy Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-strategy-plane)
 - [Section 3: User Design](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-3-design)<br/>
 [ii. Scope Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-scope-plane)<br/>
 [iii. Structural Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iii-structural-plane)<br/>
 [iv. Skeletal Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iv-skeletal-plane)<br/>
-[Desktop Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#desktop-wireframes)<br/>
-[Tablet Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#tablet-wireframes)<br/>
-[Mobile Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#mobile-wireframes)<br/>
+[Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#desktop-wireframes)<br/>
 [v. Surface Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#v-surface-plane)<br/>
 - [Section 4: Features](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-4-features)<br/>
 [i. Features of the Website](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-features-on-the-website)<br/>
