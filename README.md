@@ -53,8 +53,12 @@ https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 
 ### Tablet Wireframes
 https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
+![alt text](assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png)
 
 ### Mobile Wireframes
+https://balsamiq.cloud/sj9vnze/pho0yup
+
+![alt text](assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png)
 
 ### v. Surface Plane
 
