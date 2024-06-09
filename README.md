@@ -3,8 +3,11 @@
 ## Section 1: Introduction
 #### This project is..
 
-![alt text](assets/images/readme-file-screenshots/ui.dev-amiresponsive-website-checker-1.png)
-https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-submission/
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/ui.dev-amiresponsive-website-checker-1.png" height="100%" width="100%">
+</p>
+https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-submission/ 
+
 
 ### Table of Contents
 
@@ -43,22 +46,35 @@ Wireframes here
 ### Desktop Wireframes
 https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 
-![alt text](assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png" height="50%" width="50%">
+</p>
 
-![alt text](assets/images/readme-file-screenshots/2-desktop-recipes-landing-page.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/2-desktop-recipes-landing-page.png" height="50%" width="50%">
+</p>
 
-![alt text](assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png" height="50%" width="50%">
+</p>
 
-![alt text](assets/images/readme-file-screenshots/4-registration-page.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/4-registration-page.png" height="50%" width="50%">
+</p>
 
 ### Tablet Wireframes
 https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
-![alt text](assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png)
+
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png" height="50%" width="50%">
+</p>
 
 ### Mobile Wireframes
 https://balsamiq.cloud/sj9vnze/pho0yup
 
-![alt text](assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png" height="50%" width="50%">
+</p>
 
 ### v. Surface Plane
 
@@ -120,47 +136,69 @@ CSS
 
 ### Website Contrast Checker
 
-![alt text](assets/images/readme-file-screenshots/colour-contrast-report(webaim)-2.png)
 https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
+
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/colour-contrast-report(webaim)-2.png" height="80%" width="80%">
+</p>
 
 ### HTML Validator
 https://validator.w3.org/ 
 
 #### First HTML Page (Home Page)
-![alt text](assets/images/readme-file-screenshots/first-html-page-validator-testing.png)
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/first-html-page-validator-testing.png" height="80%" width="80%">
+</p>
 
 #### Second HTML Page (Recipes Gallery Page)
-![alt text](assets/images/readme-file-screenshots/second-html-page-validator-testing.png)
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/second-html-page-validator-testing.png" height="80%" width="80%">
+</p>
 
 #### Third HTML Page (Registration Page)
-![alt text](assets/images/readme-file-screenshots/third-html-page-validator-testing.png)
-
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/third-html-page-validator-testing.png" height="80%" width="80%">
+</p>
 
 ### CSS Validator
 https://jigsaw.w3.org/css-validator/
-
-![alt text](assets/images/readme-file-screenshots/css-page-validator-testing.png)
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/css-page-validator-testing.png" height="80%" width="80%">
+</p>
 
 ### Lighthouse Reports
 
 #### Home Page
 ##### Mobile Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png" height="80%" width="80%">
+</p>
+
 ##### Desktop Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/first-page-lighthouse-report-desktop.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-desktop.png" height="80%" width="80%">
+</p>
 
 #### Recipes Gallery Page
 ##### Mobile Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/second-page-lighthouse-report-mobile.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-mobile.png" height="80%" width="80%">
+</p>
 
 ##### Desktop Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/second-page-lighthouse-report-desktop.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-desktop.png" height="80%" width="80%">
+</p>
 
 #### Registration Page
 ##### Mobile Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png" height="80%" width="80%">
+</p>
 ##### Desktop Lighthouse Report
-![alt text](assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png)
+<p align= "left">
+<img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png" height="80%" width="80%">
+</p>
 
 
 ## Section 8: Credits
