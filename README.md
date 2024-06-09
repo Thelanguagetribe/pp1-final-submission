@@ -66,14 +66,14 @@ https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
 
 <p align= "left">
-<img src="assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png" height="50%" width="50%">
+<img src="assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png" height="25%" width="25%">
 </p>
 
 ### Mobile Wireframes
 https://balsamiq.cloud/sj9vnze/pho0yup
 
 <p align= "left">
-<img src="assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png" height="50%" width="50%">
+<img src="assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png" height="25%" width="25%">
 </p>
 
 ### v. Surface Plane
@@ -130,6 +130,15 @@ CSS
 
 ### Manual Testing
 (need grid)
+
+| Action | Expected Result | Pass/Fail | Comments|
+| ------ | --------------- | --------- | ---------------------- |
+Nav Bar Links |When clicked on, the nav link should take the user to its designated html page | Pass | - |
+|Social Media Icons | External links when clicked | Pass | - |
+
+
+
+
 
 
 ### Validator Tools
