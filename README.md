@@ -155,13 +155,35 @@ https://balsamiq.cloud/sj9vnze/pho0yup
 
 ### v. Surface Plane
 
-•	Colour scheme (colour palettes etc.)
-•	Typography
-•	Imagery
-•	Home Page
-•	Recipes Landing Page
-•	Recipes Gallery Page
--Register/Sign-up page
+#### Colour Scheme
+For the surface plane, I had original thought that a white background with a light gold foreground and text would look very nice.
+I used the Adobe colour palette generator for this.
+![alt text](assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg)
+
+However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.
+
+Therefore, building on from the colour gold as m starting point, I searched for darker shades of gold until eventually I was in the territory of brown shades. The darker brown shades were getting closer to passing the colour contrast test.
+After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.
+![alt text](assets/images/readme-file-screenshots/color-contrast-ratio-check.png)
+
+I also tested colours closely related to 'golden-brown' when choosing the colour of the submit button on the registration form. I used a website called 'encycolorpedia' to find the closely related colours that compliment the golden brown.
+
+![alt text](assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png)
+
+#### Typography
+I imported Google Fonts to my CSS file so that I could enjoy a greater selection of fonts and styles for my site.
+After testing a few option, I opted for the font 'Truculenta' for my website.
+
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/google-fonts-truculenta.png" height="70%" width="70%">
+</p>
+
+#### Imagery
+For the Imagery I kept the theme consitent to French Cusisine. I was unfortunately limited to the maximmum quality of photos as I used free image services. I got my images from (i). [Unsplash.com](https://unsplash.com/), (ii). [istockphoto](https://www.istockphoto.com/) and (iii). [Pixabay](https://pixabay.com/)
+
+I then enhanced my images using [Fotor.com](https://www.fotor.com/).
+
+Finally, for my hero images on all three pages, I converted my jpg files to webmp file using a [Free Online Converter](https://www.freeconvert.com/jpg-to-webp). I needed to convert my files as a means of reducing the image loading speeds and therefore improving the site's performance, as tested via the Lighthouse report in Section 7.
 
 ## Section 4: Features
 
@@ -301,15 +323,15 @@ https://favicon.io/favicon-converter/
 - Youtube Video- customised through Animaker. 
 https://www.animaker.com/
 - Images- gotten through Unsplash, istock and pixabay.
-https://unsplash.com/
-https://www.istockphoto.com/search/2/image-film?phrase=French%20Cuisine
+https://unsplash.com/<br/>
+https://www.istockphoto.com/search/2/image-film?phrase=French%20Cuisine<br/>
 https://pixabay.com/
 - Fonts- Imported from Google Fonts
-https://fonts.google.com/
+https://fonts.google.com/<br/>
 - Image Enhancer-Fotor.com
-https://www.fotor.com/
-- Jpg to Webp File Converter- https://www.freeconvert.com/jpg-to-webp
-- Image Optimizer- Optimizilla (when I was using jpg images, before converting them to webp images).
+https://www.fotor.com/<br/>
+- Jpg to Webp File Converter- https://www.freeconvert.com/jpg-to-webp<br/>
+- Image Optimizer- Optimizilla (when I was using jpg images, before converting them to webp images).<br/>
 https://imagecompressor.com/#google_vignette 
 
 
