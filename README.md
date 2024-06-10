@@ -205,6 +205,8 @@ Finally, for my hero images on all three pages, I converted my jpg files to webm
 </p>
 </details>
 The header is fixed on all three pages. This allows for the nav bar links to be accessible to the user at all times, irrespective of scrolling.
+<br>
+<br>
 
 <details open>
 <summary> First Page Hero Image </summary>
@@ -214,6 +216,8 @@ The header is fixed on all three pages. This allows for the nav bar links to be 
 </p>
 </details>
 I choose the hero image to be an image of eclectic French Cuisine. The text-background is set to golden brown with a little bit of transparency for visual appeal.
+<br>
+<br>
 
 <details open>
 <summary> Gallery </summary>
@@ -223,16 +227,20 @@ I choose the hero image to be an image of eclectic French Cuisine. The text-back
 </p>
 </details>
 For the second page, I choose to have a gallery grid illustrating some of the most popular French dishes. The aim is to try and engage the user's attention through the visual images.
+<br>
+<br>
 
 <details open>
 <summary> Registration Form </summary>
 <br>
 <p align= "center">
-<img src= "assets/images/readme-file-screenshots/third-page-registration-form.png" height= "70%" width= "70%">
+<img src= "assets/images/readme-file-screenshots/third-page-registration-form.png" height= "50%" width= "50%">
 </p>
 </details>
 The registration form serves as a call to action before the user leaves the website. This form is linked to code institute's 'form dump' database.
 All fields in the form must be entered correctly in order to submit the details.
+<br>
+<br>
 
 <details open>
 <summary> Footer </summary>
@@ -242,6 +250,8 @@ All fields in the form must be entered correctly in order to submit the details.
 </p>
 </details>
 The footer is added to the end of each page. It has the site's social media accounts linked to each icon. The icon's, when clicked upon, lead to external links to their respective accounts.
+<br>
+<br>
 
 <details open>
 <summary> Mobile Responsiveness </summary>
@@ -249,7 +259,11 @@ The footer is added to the end of each page. It has the site's social media acco
 <p align= "center">
 <img src= "assets/images/readme-file-screenshots/first-page-mobile-responsiveness.png" height= "50%" width= "50%">
 <br>
+<br>
+<br>
 <img src= "assets/images/readme-file-screenshots/second-page-mobile-responsiveness.png" height= "50%" width= "50%">
+<br>
+<br>
 <br>
 <img src= "assets/images/readme-file-screenshots/third-page-mobile-responsiveness.png" height= "50%" width= "50%">
 </p>
