@@ -268,7 +268,7 @@ The footer is added to the end of each page. It has the site's social media acco
 <img src= "assets/images/readme-file-screenshots/third-page-mobile-responsiveness.png" height= "50%" width= "50%">
 </p>
 </details>
-
+<br>
 
 ### ii. Features to be implemented in the future
 - I the beginning, I was being too ambitious with the idea of having 6 html pages with 3 separate recipe pages illustrating the concept further. However, due to the scope of the project and my abilities, I had to reduce it down to the standard 3 pages assigned for the project. I plan to add in recipes to the website at a later date.
@@ -279,23 +279,29 @@ The footer is added to the end of each page. It has the site's social media acco
 
 ### i. Main Languages
 
-HTML
-CSS
+- HTML
+- CSS
 
 ### ii. Frameworks, Libraries & Programmes
-
-(i.e. all your research)
--Coders coffeehouse project
--Love running project
--w3schools
--google dev tools
--chat gpt
--Stack Overflow
--Balsamiq
--Gitpod
--Github
--colour pattets
--images
+- Balsamiq- used to create my wireframes
+- GitHub- used to create a repository and to host the final deployed website.
+- Gitpod- the IDE workspace that I used to code this website
+- Google Fonts- added to css file to allow for greater selection to choose from
+- Flaticon- used to create the favicon
+- Font Awesome- embedded kit and its' social media icons
+- Adobe Color- to generate colour palettes
+- Animaker- to create an animated YouTuber trailer video
+- Fotor- to enhange the main images on all three pages
+- Free Convert- to convert jpg image files to webp files
+- Webaim- to test colour contrast compatability (with Foreground and background colours)
+- Webaim Wave Report- to test the contrast suitablity of the website
+- Unsplash- free stock images of French cuisine
+- Istockphoto- free stock images of French cuisine
+- Pixabay- free stock images of French cuisine
+- Stackoverflow- to find the css code 'object-fit:contain;' that prevents images from stretching
+- Google Developer Tools- (i.) debug the website, (ii.) assess mobile responsiveness of pages, (iii.) lighthouse reports on all pages
+- W3C HTML Validator- to test the HTML code on all three pages
+- W3C CSS Validator- to test the CSS code
 
 ## Section 6: Deployment & Local Development
 
