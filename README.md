@@ -34,7 +34,7 @@ The Online French Cooking club is a virtual cooking club designed to help French
 
 The recipes and cooking tutorials are conducted primarily in French as a means to help improve our users' comprehension of the language through its real-life application, beyond the parameters of conventional textbooks.
 
-The objective of the website is to help users gain experience and practive, in both the French Language and its accompanying culture, and to begin thinking like a French native speaker.
+The objective of the website is to help users gain experience and practice, in both the French Language and its accompanying culture, and to begin thinking like a true French native speaker.
 ## Section 2: User Expereience
 ### i. Strategy Plane
 (user experiences) (market research- competitors + their websites aim:x3 competitor websites) (target audience)
@@ -232,10 +232,60 @@ https://jigsaw.w3.org/css-validator/
 </p>
 
 ## Section 8: Credits
-(use bullet points)
+- Code Institute- The HTML & CSS Learning Modules
+- Code Institute- the Love Running Project
+- Code Institute- The Coders Coffeehouse Project
+- My First PP1 Submission- My first attempt. I used the same code as my base when setting up a new workspace.
+https://github.com/Thelanguagetribe/PP1--Website 
+- Favicon- For my customised favicon. 
+https://www.flaticon.com/free-icon/cookbook_526194?related_id=483845&origin=search
+- Favicon converter- Favicon.io.
+https://favicon.io/favicon-converter/
+- Social Media Icons- https://fontawesome.com/
+- Youtube Video- customised through Animaker. 
+https://www.animaker.com/
+- Images- gotten through Unsplash, istock and pixabay.
+https://unsplash.com/
+https://www.istockphoto.com/search/2/image-film?phrase=French%20Cuisine
+https://pixabay.com/
+- Fonts- Imported from Google Fonts
+https://fonts.google.com/
+- Image Enhancer-Fotor.com
+https://www.fotor.com/
+- Jpg to Webp File Converter- https://www.freeconvert.com/jpg-to-webp
+- Image Optimizer- Optimizilla (when I was using jpg images, before converting them to webp images).
+https://imagecompressor.com/#google_vignette 
+
+
+- Wireframes- Balsamiq.com
+https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
+https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
+https://balsamiq.cloud/sj9vnze/pho0yup
+
+- Colour Contrast Checker- Webaim.org.
+ https://webaim.org/resources/contrastchecker/?fcolor=FFD700&bcolor=FFFFFF
+ - Website Contrast Checker- Webaim Wave Report.
+ https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/register.html
+
+- Adobe Colour Palette Generator-Golds & Brown
+https://color.adobe.com/create/color-wheel
+- Shades of Brown- Geeksforgeeks.org
+https://www.geeksforgeeks.org/shades-of-brown/
+- Golden Brown Foreground Colour- color-hex.com. 
+https://www.color-hex.com/color/996515#:~:text=%23996515%20color%20RGB%20value%20is,of%20its%20RGB%20is%2021.
+-Shades of Gold and Brown- Encycolorpedia.com
+https://encycolorpedia.com/996515#google_vignette
+
+ - Image Stretching Issue- Stackoverflow.com
+ https://stackoverflow.com/questions/1733006/how-to-set-an-images-width-and-height-without-stretching-it
+
+
 
 
 ### Acknowledgments
+
+- I would like to thank my mentor, Dick Vlaanderen, for his insightful feedback and advice.
+- I would like to thank the Tutor support who helped me save countless of hours trying to arduously solve the bugs myself. 
 
 
 
