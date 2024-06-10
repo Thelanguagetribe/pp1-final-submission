@@ -37,13 +37,39 @@ The recipes and cooking tutorials are conducted primarily in French as a means t
 The objective of the website is to help users gain experience and practice, in both the French Language and its accompanying culture, and to begin thinking like a true French native speaker.
 ## Section 2: User Expereience
 ### i. Strategy Plane
-(user experiences) (market research- competitors + their websites aim:x3 competitor websites) (target audience)
+#### Market Research
+I actually came up with this idea in 2020 when I was in college. It was part of my greater business concept of a language connection service that matched language learners with native speakers (either in-person or online) and that focused on imrpoving the learning of a language by focusing on the culture affiliated with that language and diving straight into some real world experience. This business concept I called 'Tribe' and one of the limbs of its business model was to hold online events, as during the height of the COVID-19 pandemic, the popularity of online events surged. After participating in a few student start-up competitions at univeristy, I actually held an online French macaron cooking class, via Zoom, as a fun way to learn French. I advertised it via Faceboook primarily and had a successfull attendance of over 50 customers from countries all across the globe, spanning from Ireland, the UK, the Us, Dubai, Tunisia & Morocco.
 
-(use enterprise Ireland research gathered- mention how it’s a part of your start-up idea).
-User Stories (user profiles)
-+link to online event macarons
+For more information, a recording of this event can be found on my website 'the-langauge-tribe.com' which I made using a no-code website builder, Weebly.<br/>
+https://www.the-language-tribe.com/event-1--macaron-cooking-lesson.html<br/>
+
+I have conducted market research on businesses, adopting a similar approach, and have found several competitors in a similar field. The main competitors would be:<br/>
+i. iTalki- However this is solely a tutor connection service, that connect language learners to native speakers online. It is therefore less of an interactive experience.<br/>
+https://www.italki.com/en?utm_source=google_ads&utm_medium=search&utm_campaign=search_brand_en_italki_ESW_AU&utm_content=brand&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRPPgw-jEiJ4tPQxiSAuiJKQ-nZL4Zq1iWYbYYszrF1dbHF_xHcrFpUaAmkkEALw_wcB.<br/>
+ii. With Locals- A service that will match users with local tour guides when on holiday. This is a solely, in-person experience, and therefore a little nuanced to the approach adopted for my website.<br/>
+https://www.withlocals.com/experiences/ireland/tours/?utm_source=google_ads_pmax_barcelona&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRNV8cdVwEIwTWRVti_RRfBRtTQqe3LoBEcj4fJNiiBQjLUM6lEVlQwaAlUYEALw_wcB<br/>
+iii. Eventbrite- which provides a directory of paid and free online events.<br/>
+https://www.eventbrite.ie/<br/>
+
+I researched the main layout conventions of my competitors websites. Similar, to iTalki, I tried to adopt a more minimal layout and style for my project.
+
+#### User Stories
+The target user for this website would be:
+- Someone who has extra time and money to invest in a hobby, such as learning. This will therefore likely be someone in their mid-thirties to mid-sixties. i.e. Someone who has a consistent schedule and lifestyle.
+- A user who is travelling abroad for holidays and would like to brush up on their language skills before then.<br/>
+
+##### First Time Visitor Goals
+The goal is to have a website that is both eye-cathcing and emotionally enticing for a first-time visitor. To do this I stuck with a consistent colour scheme (of a dark brown foreground in front of a white background) along with a similar layout across all three pages.
+Furthermore, I made a trailer video for the home page (using Animaker) to try and grab the full attention of a first time visitor and increase the odds of converting them into a customer lead.
+
+#### Returning Visitor Goals
+To try and improve customer retention, I kept the website simple, minimal and consistent. For returning visitors there is no new 'information saturation' that they need to worry about. The focus is soley on the business' value proposition.
+
+#### Frequent Visitor Goals
+For frequent visitors, I would need to continue working on this project to add more features such as a user profile and a fleshed out repertoire of French recipes and videos uploaded to the website. For the scope of this project, this is something that I must leave for a future date to build upon.
 
 ## Section 3: Design
+mention your website made using weebly as a starting part and inspiration for my wireframes
 
 ### ii. Scope Plane
 -The Features I wanted in my website
