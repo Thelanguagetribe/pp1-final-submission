@@ -404,8 +404,9 @@ https://jigsaw.w3.org/css-validator/
 <details open>
 <summary> Home Page </summary>
 <br>
+
 #### Mobile Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
 
@@ -417,7 +418,7 @@ The performance measure is not quite green but I did try to increase the score a
 I also resolved the issue of my i mages being stretched by adding the code 'object-fit:contain;' to the css id's of the main images on all three pages. This improved the lighthouse report further.
 
 #### Desktop Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
 As mentioned above, in the Mobile Lighthouse Report section, by amending the bugs outlined I was able to greatly improve my lighouse report scores.
@@ -429,12 +430,12 @@ As mentioned above, in the Mobile Lighthouse Report section, by amending the bug
 <br>
 
 #### Mobile Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
 
 #### Desktop Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
 
@@ -448,12 +449,12 @@ Similar to the Lighthouse Reports for the Home page, by converting the jpg image
 <br>
 
 #### Mobile Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
 
 ##### Desktop Lighthouse Report
-<p align= "left">
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
 Fortunately, the lighthouse report for the third page produced above 90 scores in all 4 areas. Moving forward I will strive to maintain this score, when improving upon this website.
