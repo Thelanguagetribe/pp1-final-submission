@@ -363,6 +363,8 @@ The first html page passed the validator with no errors. There are just 2 warnin
 
 #### Previous Bugs
 There was another warning that had originally appeared in the first page relating to an attribute in the embedded youtube trailer video code. The attribute 'framebroder=0' should not be incorporated into the html code as it is now obsolete. If anythinthing, it should be added to the css code. However removing it without added it to the css code did not affect the integrity of the video or the quality of the first page. Therefore I removed it and got zero errors when I re-ran the html code.
+<br>
+
 https://validator.w3.org/
 </details>
 <br>
