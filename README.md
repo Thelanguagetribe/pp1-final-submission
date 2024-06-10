@@ -160,22 +160,22 @@ For the surface plane, I had original thought that a white background with a lig
 I used the Adobe colour palette generator for this.
 
 <p align= "center">
-<img src= "assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg" height= "70%" width= "70%">
+<img src= "assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg" height= "50%" width= "50%">
 </p>
 
-However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.
+However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.<br/>
 
 Therefore, building on from the colour gold as m starting point, I searched for darker shades of gold until eventually I was in the territory of brown shades. The darker brown shades were getting closer to passing the colour contrast test.
-After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.
+After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.<br/>
 
-<p align= "center">
+<p align= "left">
 <img src= "assets/images/readme-file-screenshots/color-contrast-ratio-check.png" height= "70%" width= "70%>
-</p>
+</p><br/>
 
 I also tested colours closely related to 'golden-brown' when choosing the colour of the submit button on the registration form. I used a website called 'encycolorpedia' to find the closely related colours that compliment the golden brown.
 
 <p align= "center">
-<img src= "assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png" height="70%" width="70%">
+<img src= "assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png" height="50%" width="50%">
 </p>
 
 #### Typography
@@ -197,15 +197,69 @@ Finally, for my hero images on all three pages, I converted my jpg files to webm
 
 ### i. Features on the Website
 
-Screen shots of the features
+<details open>
+<summary> Header </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/first-page-header-1.png" height= "70%" width= "70%">
+</p>
+</details>
+The header is fixed on all three pages. This allows for the nav bar links to be accessible to the user at all times, irrespective of scrolling.
+
+<details open>
+<summary> First Page Hero Image </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/first-page-hero-image.png" height= "70%" width= "70%">
+</p>
+</details>
+I choose the hero image to be an image of eclectic French Cuisine. The text-background is set to golden brown with a little bit of transparency for visual appeal.
+
+<details open>
+<summary> Gallery </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/second-page-gallery.png" height= "70%" width= "70%">
+</p>
+</details>
+For the second page, I choose to have a gallery grid illustrating some of the most popular French dishes. The aim is to try and engage the user's attention through the visual images.
+
+<details open>
+<summary> Registration Form </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/third-page-registration-form.png" height= "70%" width= "70%">
+</p>
+</details>
+The registration form serves as a call to action before the user leaves the website. This form is linked to code institute's 'form dump' database.
+All fields in the form must be entered correctly in order to submit the details.
+
+<details open>
+<summary> Footer </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/first-page-footer.png" height= "70%" width= "70%">
+</p>
+</details>
+The footer is added to the end of each page. It has the site's social media accounts linked to each icon. The icon's, when clicked upon, lead to external links to their respective accounts.
+
+<details open>
+<summary> Mobile Responsiveness </summary>
+<br>
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/first-page-mobile-responsiveness.png" height= "50%" width= "50%">
+<br>
+<img src= "assets/images/readme-file-screenshots/second-page-mobile-responsiveness.png" height= "50%" width= "50%">
+<br>
+<img src= "assets/images/readme-file-screenshots/third-page-mobile-responsiveness.png" height= "50%" width= "50%">
+</p>
+</details>
+
 
 ### ii. Features to be implemented in the future
-I was being too ambitious with the idea of having 6 pages with 3 separate recipe pages. Time constraints and early stage of developing, I had to reduce it down to the standard 3 pages assigned for the project.
-I applied a similar format to the Love Running project with a gallery page as my second page. 
-The individual recipes pages will have to be a feature for the future, expanding on from this original website.
-
-(use bullet points for features you want in the future e.g. recorded videos of online lessons already held)
-Actual recipes like on my weebly website (with screenshots of my weebly website’s recipes or add pdf link and screen shot of a recipe).
+- I the beginning, I was being too ambitious with the idea of having 6 html pages with 3 separate recipe pages illustrating the concept further. However, due to the scope of the project and my abilities, I had to reduce it down to the standard 3 pages assigned for the project. I plan to add in recipes to the website at a later date.
+- I wanted to incorporate French cooking tutorials for each recipe. The tutorials would have either been referenced from Youtube or organically generated. This will require a little bit mroe time to add.
+- I want to create my own sql database for the data from my Registration form to be able to go into. This is something that I plan to incorporate into the website once covered at a later stage in the course.
 
 ## Section 5: Technologies Used
 
