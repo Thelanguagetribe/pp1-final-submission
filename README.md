@@ -158,17 +158,25 @@ https://balsamiq.cloud/sj9vnze/pho0yup
 #### Colour Scheme
 For the surface plane, I had original thought that a white background with a light gold foreground and text would look very nice.
 I used the Adobe colour palette generator for this.
-![alt text](assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg)
+
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg" height= "70%" width= "70%">
+</p>
 
 However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.
 
 Therefore, building on from the colour gold as m starting point, I searched for darker shades of gold until eventually I was in the territory of brown shades. The darker brown shades were getting closer to passing the colour contrast test.
 After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.
-![alt text](assets/images/readme-file-screenshots/color-contrast-ratio-check.png)
+
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/color-contrast-ratio-check.png" height= "70%" width= "70%>
+</p>
 
 I also tested colours closely related to 'golden-brown' when choosing the colour of the submit button on the registration form. I used a website called 'encycolorpedia' to find the closely related colours that compliment the golden brown.
 
-![alt text](assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png)
+<p align= "center">
+<img src= "assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png" height="70%" width="70%">
+</p>
 
 #### Typography
 I imported Google Fonts to my CSS file so that I could enjoy a greater selection of fonts and styles for my site.
