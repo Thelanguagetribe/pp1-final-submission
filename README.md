@@ -29,15 +29,13 @@
 [iii. CSS Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#css-validator)<br/>
 [iv. Lighthouse Reports](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#lighthouse-reports)<br/>
 - [Section 8: Credits](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-8-credits)<br/>
-
-
 ## Section 1: Introduction
-#### This project is..
+The Online French Cooking club is a virtual cooking club designed to help French language learners and francophines improve their French in a dynamic, interactive and pragmatic way.
 
+The recipes and cooking tutorials are conducted primarily in French as a means to help improve our users' comprehension of the language through its real-life application, beyond the parameters of conventional textbooks.
 
-
+The objective of the website is to help users gain experience and practive, in both the French Language and its accompanying culture, and to begin thinking like a French native speaker.
 ## Section 2: User Expereience
-
 ### i. Strategy Plane
 (user experiences) (market research- competitors + their websites aim:x3 competitor websites) (target audience)
 
@@ -227,11 +225,18 @@ https://jigsaw.w3.org/css-validator/
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
+
 ##### Desktop Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
 
-
 ## Section 8: Credits
 (use bullet points)
+
+
+### Acknowledgments
+
+
+
+
