@@ -305,29 +305,25 @@ The footer is added to the end of each page. It has the site's social media acco
 
 ## Section 6: Deployment
 As my gitpod workspace was connected, and derived from, my github respository I used github to deploy my website. 
-To acheive this, I took the following steps:<br/>
+To acheive this, I took the following steps:
 1. Click  into my specific github repository connected to my workspace.
-<br/>
 2. Clicked on 'settings', in the top tab.
 <p align= "left">
 <img src= "assets/images/readme-file-screenshots/deployment-settings-step-1.png" height= "70%" width= "70%">
 </p>
-<br/>
 3. On the left-hand side panel click on 'pages'.
 <p align= "left">
 <img src= "assets/images/readme-file-screenshots/deployment-step-2.png" height= "70%" width= "70%">
 </p>
-<br/>
 4. On the main, right-hand-side of the page, under the section 'Build and deployment' and under the subheading 'Branch' click on the dropdown menu and change the brach to main. It may take a few mintues for github to deploy your branch.
 <p align= "left">
 <img src= "assets/images/readme-file-screenshots/deployment- step-3.png" height= "70%" width= "70%">
 </p>
-<br/>
 5. After a few minutes, refresh the window and now a link to your deployed website should appear. 
 <p align= "left">
 <img src= "assets/images/readme-file-screenshots/deployment-step-4.png" height= "70%" width= "70%">
 </p>
-<br/>
+
 
 ## Section 7: Testing
 
