@@ -80,8 +80,11 @@ Building on the reasearch and data assembled from the strategy plane, I prioriti
 - A registration form on the 3rd page as a call to action to try and generate and retain customer leads, before the users' leave the site.
 
 ### iii. Structural Plane
-
-Description of why you choose the layout you went with.
+After establishing the scope plane I needed to incorporate:
+- Navigation Links- to allow users to switch swifly from one page to another. For ease of access, these links were in the header that was 'fixed' and therefore accessibile to the customer when scrolling down a page as well. These navigation links were 3 simple links for each of the three web pages. Finally, I had made the navigation bar mobile response with the links collapsing into a burger menu icon when viewed on smaller devices (and therefore, decluttering the pages).
+- Tailer Video- I made sure that this video does not autoplay whenever the page is loaded.
+- Social Media Icons- I had the social media icons on the footer of each page. I also made sure that each icon had a link to its respective social media site, and account, when clicked on. These links were also external links for each of the 4 icons.
+-Registration Form Button- When a user fills out his/her details in the registration form, on the thrid page, the submit button is linked to the code institute's form dump. I unfortuantely do not have the expertise, at this stage, to have been able to create my own database for the form details and so adopted code institute's one for the purpose of this project. I also ensured that the contrast and shade of the submit button was clearly visible from the rest of the form.
 
 ### iv. Skeletal Plane
 When creating my wireframes for this website, I used my no-code website (from my start-up business 'The Language Tribe') as a starting point for inspiration.<br/>
