@@ -20,7 +20,7 @@
 - [Section 5: Technologies Used](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-5-technologies-used)<br/>
 [i.Main Languages](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-main-languages)<br/>
 [ii. Frameworks, Libraries & Programmes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-frameworks-libraries--programmes)<br/>
-- [Section 6: Deployment & Local Development](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-6-deployment--local-development)<br/>
+- [Section 6: Deployment](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-6-deployment)<br/>
 - [Section 7: Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-7-testing)<br/>
 [Manual Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#manual-testing)<br/>
 [Validator Tools](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#validator-tools)<br/>
@@ -328,78 +328,131 @@ To acheive this, I took the following steps:
 ## Section 7: Testing
 
 ### Manual Testing
-(need grid)
+I manually tested the functionality of the websites main features. Additionally, with the helo of Google Developer Tools, I also tested each page's mobile responsiveness (illustrated in the table below).
 
-| Action | Expected Result | Pass/Fail | Comments|
-| ------ | --------------- | --------- | ---------------------- |
-Nav Bar Links |When clicked on, the nav link should take the user to its designated html page | Pass | - |
-|Social Media Icons | External links when clicked | Pass | - |
-
-
-
-
-
+| Action | Expected Result | Pass/Fail |
+| ------ | --------------- | --------- |
+Nav Bar Links |When clicked on, the nav link should take the user to its designated html page | Pass |
+|Social Media Icons | External links when clicked | Pass |
+| Trailer Video | Shouldn't automatically start to play with video or sound | Pass |
+| Gallery Images (Hoover Feature) | Images should turn grayscale in colour when mouse hovers over them | Pass |
+| Registration Form (Text Inputs) | If text input boxes don't contain the correct data, a pop-up dialogue box will appear | Pass |
+| Registration Form (Submit Button) | Once the input data is valid and the submit button is clicked, link to code institute's 'form dumo' will be clicked and redirected to | Pass |
+| Mobile Responsiveness | The site should be responsive to tablet and mobile breakpoints in DevTools | Pass |
 
 ### Validator Tools
 
-### Website Contrast Checker
+### (i). Website Contrast Checker
 
-https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
+Once the website was completed, I passed it through the Wave report from webaim.org. The report showed 0 contrast issues.
+This is after I had originally applied light gold, as the foreground and text colour, for my website. This had resulted in a failed report result. This new colour of dark 'golden brown' contrasted with a white background passed the colour contrast checker and the website contrast checker.
 
+<details open>
+<summary> Wave Report </summary>
+<br>
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/colour-contrast-report(webaim)-2.png" height="80%" width="80%">
 </p>
+https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
+</details>
 
-### HTML Validator
-https://validator.w3.org/ 
 
-#### First HTML Page (Home Page)
+### (ii). HTML Validator
+
+<details open>
+<summary> First Page </summary>
+<br>
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/first-html-page-validator-testing.png" height="80%" width="80%">
 </p>
+The first html page passed the validator with no errors. There are just 2 warnings relating to the section with id hero. A similar warning appears for the second page html code as well. 
 
-#### Second HTML Page (Recipes Gallery Page)
+#### Previous Bugs
+There was another warning that had originally appeared in the first page relating to an attribute in the embedded youtube trailer video code. The attribute 'framebroder=0' should not be incorporated into the html code as it is now obsolete. If anythinthing, it should be added to the css code. However removing it without added it to the css code did not affect the integrity of the video or the quality of the first page. Therefore I removed it and got zero errors when I re-ran the html code.
+https://validator.w3.org/
+</details>
+<br>
+<details open>
+<summary> Second Page </summary>
+<br>
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/second-html-page-validator-testing.png" height="80%" width="80%">
 </p>
+Similar to the first html page, a warning on my section with the id 'gallery hero'. I tried to amend this, as per the instructions of the warning, but nothing really changed. I ran out of time to ask my mentor or tutor support about this warning. I will try to resolve it when further improving this project in the future.
+<br>
 
-#### Third HTML Page (Registration Page)
+#### Previous Bugs
+In my first submission of this project, the html validator came up with an error for all of my images. I wasn't sure what this could have been. When I showed the error message to my mentor, he explained that it was because I hadn't followed the proper naming conventions for my image files (i.e. no capital letters, no spaces, use hyphens). When I applied this the errors for the html validator were resolved.
+</details>
+<br>
+<details open>
+<summary> Third Page </summary>
+<br>
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/third-html-page-validator-testing.png" height="80%" width="80%">
 </p>
+Fortunately, there were no errors or warnings with my third html page.
+</details>
 
-### CSS Validator
-https://jigsaw.w3.org/css-validator/
+### (iii). CSS Validator
+<details open>
+<summary> CSS Code </summary>
+<br>
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/css-page-validator-testing.png" height="80%" width="80%">
 </p>
+Fortunately, I didn't have any errors or warnings in my css code.
 
-### Lighthouse Reports
+https://jigsaw.w3.org/css-validator/
+</details>
 
-#### Home Page
-##### Mobile Lighthouse Report
+### (iv).Lighthouse Reports
+<details open>
+<summary> Home Page </summary>
+<br>
+Mobile Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
 
-##### Desktop Lighthouse Report
+##### Previous Bugs
+When I first ran the lighthouse report, for the first page, I didn't run the report in incognito mode. This greatly reduced the performance metric. I then researched online on ways to imrprove my performance score. I went about this by optimizing my images by reducing their quality slightly. This reduced the image sizes to increase loading speeds. However, I felt that it still wasn't improving the performance score enough. I asked tutor support and they suggested I convert my jpg files to webp files. After I did this the lighthouse report scores all went up.
+<br>
+The performance measure is not quite green but I did try to increase the score as much as possibly, with it originally having started out at 40.
+I also resolved the issue of my i mages being stretched by adding the code 'object-fit:contain;' to the css id's of the main images on all three pages. This improved the lighthouse report further.
+
+#### Desktop Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
+As mentioned above, in the Mobile Lighthouse Report section, by amending the bugs outlined I was able to greatly improve my lighouse report scores.
+</details>
+<br>
 
-#### Recipes Gallery Page
-##### Mobile Lighthouse Report
+<details open>
+<summary> Recipes Gallery Page </summary>
+<br>
+
+#### Mobile Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
 
-##### Desktop Lighthouse Report
+#### Desktop Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/second-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
 
-#### Registration Page
-##### Mobile Lighthouse Report
+##### Previous Bugs
+Similar to the Lighthouse Reports for the Home page, by converting the jpg images to webp files and by rectifying the 'stretched images' issue that i had face, I was able to improve my lighthouse report significantly. It is the performance measurement that has more room for improvement. This is something that I will continue to work on when improving this website in the future.
+</details>
+<br>
+
+<details open>
+<summary> Registration Page </summary>
+<br>
+
+#### Mobile Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
@@ -408,6 +461,8 @@ https://jigsaw.w3.org/css-validator/
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/third-page-lighthouse-report-desktop.png" height="80%" width="80%">
 </p>
+Fortunately, the lighthouse report for the third page produced above 90 scores in all 4 areas. Moving forward I will strive to maintain this score, when improving upon this website.
+</details>
 
 ## Section 8: Credits
 - Code Institute- The HTML & CSS Learning Modules
