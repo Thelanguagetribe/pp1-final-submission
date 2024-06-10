@@ -1,15 +1,10 @@
 # Online French Cooking Club
-
-## Section 1: Introduction
-#### This project is..
-
 <p align= "center">
 <img src="assets/images/readme-file-screenshots/ui.dev-amiresponsive-website-checker-1.png" height="100%" width="100%">
-</p>
-https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-submission/ 
-
+</p> 
 
 ## Table of Contents
+[Link to live website](https://thelanguagetribe.github.io/pp1-final-submission/)
 - [Section 1: Introduction](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-1-introduction)
 - [Section 2: User Experience](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-2-user-expereience)<br/>
 [i. Strategy Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-strategy-plane)
@@ -36,7 +31,8 @@ https://ui.dev/amiresponsive?url=https://thelanguagetribe.github.io/pp1-final-su
 - [Section 8: Credits](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-8-credits)<br/>
 
 
-
+## Section 1: Introduction
+#### This project is..
 
 
 
