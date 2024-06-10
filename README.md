@@ -12,7 +12,7 @@
 [ii. Scope Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-scope-plane)<br/>
 [iii. Structural Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iii-structural-plane)<br/>
 [iv. Skeletal Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iv-skeletal-plane)<br/>
-[Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#desktop-wireframes)<br/>
+[Wireframes](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#wireframes)<br/>
 [v. Surface Plane](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#v-surface-plane)<br/>
 - [Section 4: Features](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-4-features)<br/>
 [i. Features of the Website](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-features-on-the-website)<br/>
@@ -24,10 +24,10 @@
 - [Section 7: Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-7-testing)<br/>
 [Manual Testing](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#manual-testing)<br/>
 [Validator Tools](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#validator-tools)<br/>
-[i. Website Contrast Checker](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#website-contrast-checker)<br/>
-[ii. HTML Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#html-validator)<br/>
-[iii. CSS Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#css-validator)<br/>
-[iv. Lighthouse Reports](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#lighthouse-reports)<br/>
+[i. Website Contrast Checker](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#i-website-contrast-checker)<br/>
+[ii. HTML Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ii-html-validator)<br/>
+[iii. CSS Validator](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#iii-css-validator)<br/>
+[iv. Lighthouse Reports](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#ivlighthouse-reports)<br/>
 - [Section 8: Credits](https://github.com/Thelanguagetribe/pp1-final-submission?tab=readme-ov-file#section-8-credits)<br/>
 ## Section 1: Introduction
 The Online French Cooking club is a virtual cooking club designed to help French language learners and francophines improve their French in a dynamic, interactive and pragmatic way.
@@ -43,13 +43,16 @@ I actually came up with this idea in 2020 when I was in college. It was part of 
 For more information, a recording of this event can be found on my website 'the-langauge-tribe.com' which I made using a no-code website builder, Weebly.<br/>
 https://www.the-language-tribe.com/event-1--macaron-cooking-lesson.html<br/>
 
-I have conducted market research on businesses, adopting a similar approach, and have found several competitors in a similar field. The main competitors would be:<br/>
-i. iTalki- However this is solely a tutor connection service, that connect language learners to native speakers online. It is therefore less of an interactive experience.<br/>
-https://www.italki.com/en?utm_source=google_ads&utm_medium=search&utm_campaign=search_brand_en_italki_ESW_AU&utm_content=brand&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRPPgw-jEiJ4tPQxiSAuiJKQ-nZL4Zq1iWYbYYszrF1dbHF_xHcrFpUaAmkkEALw_wcB.<br/>
-ii. With Locals- A service that will match users with local tour guides when on holiday. This is a solely, in-person experience, and therefore a little nuanced to the approach adopted for my website.<br/>
-https://www.withlocals.com/experiences/ireland/tours/?utm_source=google_ads_pmax_barcelona&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRNV8cdVwEIwTWRVti_RRfBRtTQqe3LoBEcj4fJNiiBQjLUM6lEVlQwaAlUYEALw_wcB<br/>
-iii. Eventbrite- which provides a directory of paid and free online events.<br/>
-https://www.eventbrite.ie/<br/>
+I have conducted market research on businesses, adopting a similar approach, and have found several competitors in a similar field. The main competitors would be:
+<br/>
+
+i. <b>iTalki</b>- However this is solely a tutor connection service, that connect language learners to native speakers online. It is therefore less of an interactive experience. https://www.italki.com/en?utm_source=google_ads&utm_medium=search&utm_campaign=search_brand_en_italki_ESW_AU&utm_content=brand&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRPPgw-jEiJ4tPQxiSAuiJKQ-nZL4Zq1iWYbYYszrF1dbHF_xHcrFpUaAmkkEALw_wcB.
+<br/>
+
+ii. <b>With Locals</b>- A service that will match users with local tour guides when on holiday. This is a solely, in-person experience, and therefore a little nuanced to the approach adopted for my website. https://www.withlocals.com/experiences/ireland/tours/?utm_source=google_ads_pmax_barcelona&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRNV8cdVwEIwTWRVti_RRfBRtTQqe3LoBEcj4fJNiiBQjLUM6lEVlQwaAlUYEALw_wcB
+<br/>
+
+iii. <b>Eventbrite</b>- which provides a directory of paid and free online events. https://www.eventbrite.ie/ 
 
 I researched the main layout conventions of my competitors websites. Similar, to iTalki, I tried to adopt a more minimal layout and style for my project.
 
@@ -58,7 +61,7 @@ The target user for this website would be:
 - Someone who has extra time and money to invest in a hobby, such as learning. This will therefore likely be someone in their mid-thirties to mid-sixties. i.e. Someone who has a consistent schedule and lifestyle.
 - A user who is travelling abroad for holidays and would like to brush up on their language skills before then.<br/>
 
-##### First Time Visitor Goals
+#### First Time Visitor Goals
 The goal is to have a website that is both eye-cathcing and emotionally enticing for a first-time visitor. To do this I stuck with a consistent colour scheme (of a dark brown foreground in front of a white background) along with a similar layout across all three pages.
 Furthermore, I made a trailer video for the home page (using Animaker) to try and grab the full attention of a first time visitor and increase the odds of converting them into a customer lead.
 
@@ -162,28 +165,29 @@ I used the Adobe colour palette generator for this.
 <p align= "center">
 <img src= "assets/images/readme-file-screenshots/adobe-color-palette-generator-golden.jpeg" height= "50%" width= "50%">
 </p>
-
-However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.<br/>
+However, unfortunately in my first submission of this project, the feedback report highlighted that these shades of gold did not pass the colour contrast ratio test and also lead to issues with increased trasnparency and degreased legibility of the text.
+<br/>
 
 Therefore, building on from the colour gold as m starting point, I searched for darker shades of gold until eventually I was in the territory of brown shades. The darker brown shades were getting closer to passing the colour contrast test.
-After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.<br/>
+After runninga few shades through the test, I settled upon the shade of 'golden brown' as the foreground colour for the website. This shade passed the contrast test, against the white background, with a high ratio.
+<br/>
 
-<p align= "left">
+<p align= "center">
 <img src= "assets/images/readme-file-screenshots/color-contrast-ratio-check.png" height= "70%" width= "70%>
-</p><br/>
+</p>
+<br/>
 
 I also tested colours closely related to 'golden-brown' when choosing the colour of the submit button on the registration form. I used a website called 'encycolorpedia' to find the closely related colours that compliment the golden brown.
-
 <p align= "center">
 <img src= "assets/images/readme-file-screenshots/golden-brown-closely-related-colours.png" height="50%" width="50%">
 </p>
+<br/>
 
 #### Typography
 I imported Google Fonts to my CSS file so that I could enjoy a greater selection of fonts and styles for my site.
 After testing a few option, I opted for the font 'Truculenta' for my website.
-
 <p align= "center">
-<img src= "assets/images/readme-file-screenshots/google-fonts-truculenta.png" height="70%" width="70%">
+<img src= "assets/images/readme-file-screenshots/google-fonts-truculenta.png" height="60%" width="60%">
 </p>
 
 #### Imagery
@@ -196,7 +200,6 @@ Finally, for my hero images on all three pages, I converted my jpg files to webm
 ## Section 4: Features
 
 ### i. Features on the Website
-
 <details open>
 <summary> Header </summary>
 <br>
@@ -216,8 +219,7 @@ The header is fixed on all three pages. This allows for the nav bar links to be 
 </p>
 </details>
 I choose the hero image to be an image of eclectic French Cuisine. The text-background is set to golden brown with a little bit of transparency for visual appeal.
-<br>
-<br>
+<br/>
 
 <details open>
 <summary> Gallery </summary>
@@ -227,8 +229,7 @@ I choose the hero image to be an image of eclectic French Cuisine. The text-back
 </p>
 </details>
 For the second page, I choose to have a gallery grid illustrating some of the most popular French dishes. The aim is to try and engage the user's attention through the visual images.
-<br>
-<br>
+<br/>
 
 <details open>
 <summary> Registration Form </summary>
@@ -240,7 +241,6 @@ For the second page, I choose to have a gallery grid illustrating some of the mo
 The registration form serves as a call to action before the user leaves the website. This form is linked to code institute's 'form dump' database.
 All fields in the form must be entered correctly in order to submit the details.
 <br>
-<br>
 
 <details open>
 <summary> Footer </summary>
@@ -250,8 +250,7 @@ All fields in the form must be entered correctly in order to submit the details.
 </p>
 </details>
 The footer is added to the end of each page. It has the site's social media accounts linked to each icon. The icon's, when clicked upon, lead to external links to their respective accounts.
-<br>
-<br>
+<br/>
 
 <details open>
 <summary> Mobile Responsiveness </summary>
@@ -260,11 +259,12 @@ The footer is added to the end of each page. It has the site's social media acco
 <img src= "assets/images/readme-file-screenshots/first-page-mobile-responsiveness.png" height= "50%" width= "50%">
 <br>
 <br>
-<br>
+
 <img src= "assets/images/readme-file-screenshots/second-page-mobile-responsiveness.png" height= "50%" width= "50%">
 <br>
 <br>
-<br>
+
+
 <img src= "assets/images/readme-file-screenshots/third-page-mobile-responsiveness.png" height= "50%" width= "50%">
 </p>
 </details>
@@ -278,7 +278,6 @@ The footer is added to the end of each page. It has the site's social media acco
 ## Section 5: Technologies Used
 
 ### i. Main Languages
-
 - HTML
 - CSS
 
@@ -324,12 +323,10 @@ To acheive this, I took the following steps:
 <img src= "assets/images/readme-file-screenshots/deployment-step-4.png" height= "70%" width= "70%">
 </p>
 
-
 ## Section 7: Testing
 
 ### Manual Testing
 I manually tested the functionality of the websites main features. Additionally, with the helo of Google Developer Tools, I also tested each page's mobile responsiveness (illustrated in the table below).
-
 | Action | Expected Result | Pass/Fail |
 | ------ | --------------- | --------- |
 Nav Bar Links |When clicked on, the nav link should take the user to its designated html page | Pass |
@@ -343,7 +340,6 @@ Nav Bar Links |When clicked on, the nav link should take the user to its designa
 ### Validator Tools
 
 ### (i). Website Contrast Checker
-
 Once the website was completed, I passed it through the Wave report from webaim.org. The report showed 0 contrast issues.
 This is after I had originally applied light gold, as the foreground and text colour, for my website. This had resulted in a failed report result. This new colour of dark 'golden brown' contrasted with a white background passed the colour contrast checker and the website contrast checker.
 
@@ -356,9 +352,7 @@ This is after I had originally applied light gold, as the foreground and text co
 https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/
 </details>
 
-
 ### (ii). HTML Validator
-
 <details open>
 <summary> First Page </summary>
 <br>
@@ -410,7 +404,7 @@ https://jigsaw.w3.org/css-validator/
 <details open>
 <summary> Home Page </summary>
 <br>
-Mobile Lighthouse Report
+#### Mobile Lighthouse Report
 <p align= "left">
 <img src="assets/images/readme-file-screenshots/first-page-lighthouse-report-mobile.png" height="80%" width="80%">
 </p>
@@ -418,6 +412,7 @@ Mobile Lighthouse Report
 ##### Previous Bugs
 When I first ran the lighthouse report, for the first page, I didn't run the report in incognito mode. This greatly reduced the performance metric. I then researched online on ways to imrprove my performance score. I went about this by optimizing my images by reducing their quality slightly. This reduced the image sizes to increase loading speeds. However, I felt that it still wasn't improving the performance score enough. I asked tutor support and they suggested I convert my jpg files to webp files. After I did this the lighthouse report scores all went up.
 <br>
+
 The performance measure is not quite green but I did try to increase the score as much as possibly, with it originally having started out at 40.
 I also resolved the issue of my i mages being stretched by adding the code 'object-fit:contain;' to the css id's of the main images on all three pages. This improved the lighthouse report further.
 
@@ -488,18 +483,14 @@ https://www.fotor.com/<br/>
 - Jpg to Webp File Converter- https://www.freeconvert.com/jpg-to-webp<br/>
 - Image Optimizer- Optimizilla (when I was using jpg images, before converting them to webp images).<br/>
 https://imagecompressor.com/#google_vignette 
-
-
 - Wireframes- Balsamiq.com
 https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
 https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
 https://balsamiq.cloud/sj9vnze/pho0yup
-
 - Colour Contrast Checker- Webaim.org.
  https://webaim.org/resources/contrastchecker/?fcolor=FFD700&bcolor=FFFFFF
  - Website Contrast Checker- Webaim Wave Report.
  https://wave.webaim.org/report#/https://thelanguagetribe.github.io/pp1-final-submission/register.html
-
 - Adobe Colour Palette Generator-Golds & Brown
 https://color.adobe.com/create/color-wheel
 - Shades of Brown- Geeksforgeeks.org
@@ -508,15 +499,10 @@ https://www.geeksforgeeks.org/shades-of-brown/
 https://www.color-hex.com/color/996515#:~:text=%23996515%20color%20RGB%20value%20is,of%20its%20RGB%20is%2021.
 -Shades of Gold and Brown- Encycolorpedia.com
 https://encycolorpedia.com/996515#google_vignette
-
  - Image Stretching Issue- Stackoverflow.com
  https://stackoverflow.com/questions/1733006/how-to-set-an-images-width-and-height-without-stretching-it
 
-
-
-
 ### Acknowledgments
-
 - I would like to thank my mentor, Dick Vlaanderen, for his insightful feedback and advice.
 - I would like to thank the Tutor support who helped me save countless of hours trying to arduously solve the bugs myself. 
 
