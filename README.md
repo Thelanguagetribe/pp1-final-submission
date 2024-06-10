@@ -69,59 +69,86 @@ To try and improve customer retention, I kept the website simple, minimal and co
 For frequent visitors, I would need to continue working on this project to add more features such as a user profile and a fleshed out repertoire of French recipes and videos uploaded to the website. For the scope of this project, this is something that I must leave for a future date to build upon.
 
 ## Section 3: Design
-mention your website made using weebly as a starting part and inspiration for my wireframes
 
 ### ii. Scope Plane
--The Features I wanted in my website
--The features i got inspired from my competitors websites
-(e.g. colour schemes, layouts, images)
-(got ideas for website layouts using canva templates of websites- credit in teh credits section as well.)
--Functionality requirments I wanted
+Building on the reasearch and data assembled from the strategy plane, I prioritized the following core features to be incorporated into this MVP version of my website:
+- A brief and clear description of the value proposition, in text, on the first page as the first noticeable (and ideally eye-catching) element in the body of the first page.
+- An animated tailer video, on the concept of the value proposition to grab and maintain the user's attention (and invoke a positiove emotional response).
+- Social media icons fixed in the header across all three pages, with external links to their relative sites.
+- Navigation links in a fixed header on each page with mobile responsive design.
+- A gallery of popular French cuisine dishes on the 2nd page as a means to try and maintain hold of the user's interest.
+- A registration form on the 3rd page as a call to action to try and generate and retain customer leads, before the users' leave the site.
 
 ### iii. Structural Plane
 
 Description of why you choose the layout you went with.
 
 ### iv. Skeletal Plane
+When creating my wireframes for this website, I used my no-code website (from my start-up business 'The Language Tribe') as a starting point for inspiration.<br/>
+https://www.the-language-tribe.com/event-1--macaron-cooking-lesson.html
 
-Wireframes here
--responsiveness (mobiles, laptops and tablest)
-•	(link) Wireframes for Mobile
-•	(link) Wireframe for Tablet
-•	(link) Wireframe for Desktop
+However, for the scope of this project (and my abilities) I had to withold many potential features in this first iteration and to be incorporated at a later stage. For example, adding a repertoire of French recipes, with video tutorials, readily available to potential users.
 
-### Desktop Wireframes
+### Wireframes
+<details open>
+<summary> Desktop Wireframes</summary>
+<br>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png" height="40%" width="40%">
+</p>
+
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/2-desktop-recipes-landing-page.png" height="40%" width="40%">
+</p>
+
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png" height="40%" width="40%">
+</p>
+
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/4-registration-page.png" height="40%" width="40%">
+</p>
+
 https://balsamiq.cloud/sj9vnze/ptrz8d9/rA818
+</details>
 
-<p align= "left">
-<img src="assets/images/readme-file-screenshots/1-desktop-wireframe-home-page.png" height="50%" width="50%">
-</p>
-
-<p align= "left">
-<img src="assets/images/readme-file-screenshots/2-desktop-recipes-landing-page.png" height="50%" width="50%">
-</p>
-
-<p align= "left">
-<img src="assets/images/readme-file-screenshots/3-desktop-recipe-page-1.png" height="50%" width="50%">
-</p>
-
-<p align= "left">
-<img src="assets/images/readme-file-screenshots/4-registration-page.png" height="50%" width="50%">
-</p>
-
-### Tablet Wireframes
-https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
-
-<p align= "left">
+<details open>
+<summary> Tablet Wireframes </summary>
+<br>
+<p align= "center">
 <img src="assets/images/readme-file-screenshots/1-tablet-wireframes-home-page.png" height="25%" width="25%">
 </p>
-
-### Mobile Wireframes
-https://balsamiq.cloud/sj9vnze/pho0yup
-
-<p align= "left">
-<img src="assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png" height="25%" width="25%">
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/2-tablet-wireframes-recipes-landing-page.png" height="25%" width="25%">
 </p>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/3-tablet-wireframes-recipe-1-page.png" height="25%" width="25%">
+</p>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/4-tablet-wireframes-registration-page.png" height="25%" width="25%">
+</p>
+
+https://balsamiq.cloud/sbqgqgv/pdf8jhp/r0E5E
+</details>
+
+<details open>
+<summary> Mobile Wireframes </summary>
+<br>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/1-mobile-wireframes-home-page.png" height="20%" width="20%">
+</p>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/2-mobile-wireframes-recipes-landing-page.png" height="20%" width="20%">
+</p>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/3-mobile-responsiveness-recipe-1-page.png" height="20%" width="20%">
+</p>
+<p align= "center">
+<img src="assets/images/readme-file-screenshots/4-mobile-responsiveness-registration-form.png" height="20%" width="20%">
+</p>
+
+https://balsamiq.cloud/sj9vnze/pho0yup
+</details>
 
 ### v. Surface Plane
 
